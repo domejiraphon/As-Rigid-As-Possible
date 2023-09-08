@@ -1,0 +1,1 @@
+/usr/bin/libtool -c -static -o libcore.a CMakeFiles/core.dir/source/arap_precompute.cpp.o CMakeFiles/core.dir/source/arap_single_iteration.cpp.o CMakeFiles/core.dir/source/biharmonic_precompute.cpp.o CMakeFiles/core.dir/source/biharmonic_solve.cpp.o 
