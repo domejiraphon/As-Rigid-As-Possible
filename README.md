@@ -9,7 +9,7 @@ mkdir build
 cd build
 cmake .. -DCMAKE_BUILD_TYPE=Release
 make 
-./deformation [path to mesh.obj]
+./deformation model.obj
 ```
 
 - `Space` to toggle whether placing control points or deforming
